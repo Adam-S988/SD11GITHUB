@@ -1,2 +1,2 @@
 # SD11GITHUB
-This is a test project
+This is a test project for seeing how GitHub works
